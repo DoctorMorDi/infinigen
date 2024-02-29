@@ -3,20 +3,20 @@
 ## Tech Stack
 DoctorMorDi/infinigen is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
-- [C++](http://www.cplusplus.com/) – Languages
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- [C++](http://www.cplusplus.com/) – Languages
+- [GLSL](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) – Languages
+- [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
+- [Python](https://www.python.org) – Languages
+- [Matplotlib](http://matplotlib.org) – Charting Libraries
+- [CMake](http://www.cmake.org/) – Java Build Tools
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - [OpenCV](http://opencv.org/) – Image Processing and Management
 - [scikit-image](http://scikit-image.org/) – Image Processing and Management
-- [NumPy](http://www.numpy.org/) – Data Science Tools
-- [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- [CMake](http://www.cmake.org/) – Java Build Tools
 - [CUDA](http://www.nvidia.com/object/cuda_home_new.html) – Machine Learning Tools
-- [Matplotlib](http://matplotlib.org) – Charting Libraries
+- [NumPy](http://www.numpy.org/) – Data Science Tools
 - [SciPy](http://www.scipy.org) – Data Science Tools
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [GLSL](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) – Languages
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
 
@@ -26,20 +26,20 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 DoctorMorDi/infinigen is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/6548/default_a66025fbe8f221c489bdaac3a99d84e5f138cbbd.png' alt='GLSL'/> [GLSL](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg' alt='CMake'/> [CMake](http://www.cmake.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - <img width='25' height='25' src='https://img.stackshare.io/service/1293/opencv-logo-64x64.png' alt='OpenCV'/> [OpenCV](http://opencv.org/) – Image Processing and Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/1294/897180.png' alt='scikit-image'/> [scikit-image](http://scikit-image.org/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg' alt='CMake'/> [CMake](http://www.cmake.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2836/LUOWehvo_400x400.jpeg' alt='CUDA'/> [CUDA](http://www.nvidia.com/object/cuda_home_new.html) – Machine Learning Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/6548/default_a66025fbe8f221c489bdaac3a99d84e5f138cbbd.png' alt='GLSL'/> [GLSL](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
 
@@ -50,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DoctorMorDi/infinigen](https://github.com/DoctorMorDi/infinigen)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|27<br/>Tools used|02/03/24 <br/>Report generated|
+|27<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
